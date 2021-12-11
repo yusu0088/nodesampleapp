@@ -1,8 +1,19 @@
+Start the app:
+
+```shell
 node app/app.js
+```
 
-THEN:
+
+Then, you can run:
+
+```
 curl http://localhost:6000
+```
 
-SHOULD GET:
+You should get:
+
+```shell
 Hello World
+```
 
