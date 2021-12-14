@@ -1,0 +1,4 @@
+Ignore these:
+*.pid
+*.vscode
+*.npm
